@@ -1,6 +1,3 @@
-[cite\_start]Here is a suggested `README.md` file for your GitHub project, based on the provided text[cite: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
-
-````markdown
 # 🦠 Predicting Disease Outbreaks Using Time Series Analysis and Classification
 
 ## Overview
@@ -61,7 +58,4 @@ jupyter notebook Disease Prediction.ipynb
 
 [cite\_start]The findings underscore the utility of predictive analytics in public health, particularly for pandemic preparedness[cite: 10]. [cite\_start]Future enhancements will focus on integrating more granular data and sophisticated algorithms[cite: 10].
 
-```
-
-Would you like me to make any adjustments or add more sections, such as a **License** or a **Prerequisites** section?
 ```
